@@ -11,6 +11,10 @@
 
 <kbd>wws server nick set</kbd>
 
+查询已绑定的账号
+
+<kbd>wws info</kbd>
+
 ### 随机战数据查询
 > 忽略 <kbd>server</kbd> 属性时，默认查询亚服（asia）
 >
